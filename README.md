@@ -17,9 +17,9 @@ npm install
 npm run dev
 
 # generate production build
-<!-- remeber to first run 'build' in order to serve dist on port 8080 -->
 npm run build
 
 # run generated content in dist folder on port 8080
+<!-- remeber to first run 'build' in order to serve dist on port 8080 -->
 npm run start
 ```
