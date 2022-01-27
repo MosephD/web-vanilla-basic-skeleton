@@ -6,6 +6,9 @@ This is a repository intended to serve as a starting point if you want to bootst
 
 - [Webpack](https://webpack.js.org/) (v5)
 - [Babel](https://babeljs.io/) with [preset-env](https://babeljs.io/docs/en/babel-preset-env)
+- [PostCSS](https://postcss.org/)
+- [Normalize.css](https://necolas.github.io/normalize.css/)
+
 
 ## Running the app
 
@@ -20,6 +23,6 @@ npm run dev
 npm run build
 
 # run generated content in dist folder on port 8080
-<!-- remeber to first run 'build' in order to serve dist on port 8080 -->
+<!-- remeber to first run 'build' in order to compile dist folder -->
 npm run start
 ```
